@@ -2,7 +2,7 @@
   width: 35%;
   margin: 10% auto;
   font-size: 4vh;
-  background-color: rgba(0, 0, 0, 0.06);
+  background-color: rgba(204, 140, 140, 0.06);
 }
 
 .titile {
@@ -10,7 +10,7 @@
 }
 
 .add {
-  background-color: white;
+  background-color: rgb(177, 150, 150);
 }
 
 .additem {
